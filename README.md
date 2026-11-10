@@ -10,7 +10,7 @@ A movie streaming website concept built as my first HTML, CSS, and JavaScript pr
 **Movie Detail Page**
 <img width="2472" height="1363" alt="image" src="https://github.com/user-attachments/assets/5f884a4f-1f7b-45f1-aae7-a52c51373849" />
 
-<img width="2468" height="1363" alt="image" src="https://github.com/user-attachments/assets/45352aa3-33a3-4334-9bfb-cf1b87a3350f" />
+<img width="2469" height="1363" alt="image" src="https://github.com/user-attachments/assets/70f1d5ce-d687-40a1-9141-8ac023c262f8" />
 
 ## Features
 - Responsive dark-themed layout
